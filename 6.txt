@@ -1,0 +1,10 @@
+                                  HBL BANK
+Name of Customer: Ibtehaj Khan
+Transaction code: 2345
+Current balance: 100000
+Type of Account: Saving Account
+Date of opening: 5-4-2005
+last Transactions made: 10-4-2021
+Branch code: 2098-k
+
+
